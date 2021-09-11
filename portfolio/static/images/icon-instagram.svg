@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon-instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.5,38.1v2.2c0,1.2-1,2.2-2.2,2.2h-2.2l0,0H11.9l0,0H9.7c-1.2,0-2.2-1-2.2-2.2
+	v-6.6l0,0V18.4l0,0V9.7c0-1.2,1-2.2,2.2-2.2h8.8l0,0h13.1l0,0h8.8c1.2,0,2.2,1,2.2,2.2v2.2c0,0,0,0,0,0V38.1
+	C42.5,38.1,42.5,38.1,42.5,38.1z M25,20.6c-4,0-4.4,4.4-4.4,4.4s-0.1,4.4,4.4,4.4s4.4-4.4,4.4-4.4S29,20.6,25,20.6z M38.1,11.9h-6.6
+	v6.6h6.6V11.9z M38.1,25L38.1,25v-2.2h-4.4l0,0h-0.3c0.2,0.7,0.3,1.4,0.3,2.2v0l0,0l0,0c0,4.8-3.9,8.8-8.8,8.8s-8.8-3.9-8.8-8.8
+	c0-0.8,0.1-1.5,0.3-2.2h-0.3l0,0h-4.4v15.3h4.4h2.2l0,0h13.1l0,0h6.6v-6.6l0,0V25z"/>
+</svg>
